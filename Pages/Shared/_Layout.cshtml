@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - razorsite</title>
+	<meta name="description" content="blazor web app themes template buidl and develope new modern website using blazor"/>
+	<link href='img/blazor.png' rel='icon' type='image/x-icon'/>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+ <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.deep_purple-purple.min.css" /> 
+</head>
+<body class="bg-dark text-light">
+<div class="mdl-layout mdl-js-layout mdl-layout--fixed-header bg-dark text-light">
+  <header class="mdl-layout__header">
+    <div class="mdl-layout__header-row">
+      <span class="mdl-layout-title"></span>
+      <div class="mdl-layout-spacer"></div>
+      <nav class="mdl-navigation mdl-layout--large-screen-only">
+        <a class="mdl-navigation__link" asp-area="" asp-page="/Index">Home</a>
+        <a class="mdl-navigation__link" asp-area="" asp-page="/Doc">Doc</a>
+        <a class="mdl-navigation__link" asp-area="" asp-page="/About">About</a>
+        <a class="mdl-navigation__link" asp-area="" asp-page="/Contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+  <div class="mdl-layout__drawer bg-dark text-light">
+    <span class="mdl-layout-title"><strong>The Blazor</strong></span>
+    <nav class="mdl-navigation">
+      <a class="mdl-navigation__link" asp-area="" asp-page="/Index">Home</a>
+      <a class="mdl-navigation__link" asp-area="" asp-page="/Gallery">Gallery</a>
+      <a class="mdl-navigation__link" asp-area="" asp-page="/Video">Music</a>
+      <a class="mdl-navigation__link" asp-area="" asp-page="/Cinema">Cinema</a>
+      <a class="mdl-navigation__link" asp-area="" asp-page="/Orchestra">Orchestra</a>
+    </nav>
+  </div>
+</div>
+
+    <div class="container">
+	<div class="row">
+	<div class="col-12 col-md-12 p-3 p-md-5"></div>
+		<div class="col-12 col-md-12 p-3 p-md-5">
+        <main role="main" class="pb-3">
+		    @RenderBody()
+		</main>
+    </div>
+	</div>
+	</div>
+
+
+
+        <div class="container">
+            &copy; 2021 - razorsite - by <a href="https://axcora.com/getaxcoracms">Axcora</a>
+        </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+<script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

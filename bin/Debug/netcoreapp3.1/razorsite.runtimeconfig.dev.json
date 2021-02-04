@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\creativebydre\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\creativebydre\\.nuget\\packages"
+    ]
+  }
+}
