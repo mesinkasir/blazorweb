@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+# BUILD NEW MODERN WEBSITE WITH BLAZOR
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/blazorweb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Free download with full source code , download it on change code with you needed to learn blazor.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Design using bootstrap and MDL with dark mode.
 
-### Markdown
+For documentation and installation :
+[https://www.hockeycomputindo.com/2021/02/build-develope-modern-website-using.html](https://www.hockeycomputindo.com/2021/02/build-develope-modern-website-using.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Play demo :  [https://youtu.be/ynaCpjRNVLs](https://youtu.be/ynaCpjRNVLs)
 
-```markdown
-Syntax highlighted code block
+Display
 
-# Header 1
-## Header 2
-### Header 3
+![blazor free source code website app themes template](https://a.fsdn.com/con/app/proj/blazor/screenshots/Screenshot_2021-02-04%20Blazor%20Web%20App%20-%20razorsite.png/max/max/1)
 
-- Bulleted
-- List
+Home page area
 
-1. Numbered
-2. List
+![blazor free source code website app themes template](https://a.fsdn.com/con/app/proj/blazor/screenshots/Screenshot_2021-02-04%20Blazor%20Web%20App%20-%20razorsite%287%29.png/max/max/1)
 
-**Bold** and _Italic_ and `Code` text
+Cinema page
 
-[Link](url) and ![Image](src)
-```
+![blazor free source code website app themes template](https://a.fsdn.com/con/app/proj/blazor/screenshots/Screenshot_2021-02-04%20Blazor%20Web%20App%20-%20razorsite%286%29.png/max/max/1)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Music video
 
-### Jekyll Themes
+![blazor free source code website app themes template](https://a.fsdn.com/con/app/proj/blazor/screenshots/Screenshot_2021-02-04%20Blazor%20Web%20App%20-%20razorsite%285%29.png/max/max/1)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/blazorweb/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Art gallery page
 
-### Support or Contact
+![blazor free source code website app themes template](https://a.fsdn.com/con/app/proj/blazor/screenshots/Screenshot_2021-02-04%20Blazor%20Web%20App%20-%20razorsite%283%29.png/max/max/1)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Drawer menu
+
+==========================================================
+
+
+![blazor free source code website app themes template](https://1.bp.blogspot.com/-RSEWJO1hePA/YBvzhEEhd-I/AAAAAAAAMso/qLcMj1yK1ikOGvdu2VqUikYzC3HUCcjHQCLcBGAsYHQ/s1000/Blazor.png)
+
+How to install 
+
+For first need node and .NET you can download and install it your terminal desktop. then download fork or clone this source code, paste all download file on your project folder, 
+
+then open shell terminal / npm and  with command 'dotnet watch run'
+
+open localhost:5000
+
+and blazor website is live now.
+
+Off course you can article and edit code you with you needed.
+
+read more about documentation and installation :
+[https://www.hockeycomputindo.com/2021/02/build-develope-modern-website-using.html](https://www.hockeycomputindo.com/2021/02/build-develope-modern-website-using.html)
+
+hapy codding...
+
+present by [https://axcora.com/getaxcoracms](https://axcora.com/getaxcoracms)
