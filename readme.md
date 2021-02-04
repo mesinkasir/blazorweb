@@ -1,6 +1,6 @@
 # BUILD NEW MODERN WEBSITE WITH BLAZOR
 
-Free download with full source code , download it on change code with you needed to learn blazor.
+Free download with full source code , download it and change code with you needed to learn blazor.
 
 Design using bootstrap and MDL with dark mode.
 
