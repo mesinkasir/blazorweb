@@ -46,7 +46,7 @@ open localhost:5000
 
 and blazor website is live now.
 
-Off course you can article and edit code you with you needed.
+Off course you can edit content article and edit code you with you needed.
 
 read more about documentation and installation :
 [https://www.hockeycomputindo.com/2021/02/build-develope-modern-website-using.html](https://www.hockeycomputindo.com/2021/02/build-develope-modern-website-using.html)
